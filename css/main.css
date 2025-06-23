@@ -169,9 +169,6 @@ main .main_content {
   margin: 0;
 }
 
-.social_info .row .socials_handle b {
-  color: var(--primary-color);
-}
 
 .language_info .row .nationality b {
   color: var(--secondary-color);
