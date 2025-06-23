@@ -657,10 +657,10 @@ i.fa-brands.fa-figma {
 }
 
 /* Responsive styles */
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   body {
     flex-direction: column;
-    min-width: 100%;
+    min-width: 104%;
     padding: 0;
     margin: 0;
   }
@@ -682,7 +682,7 @@ i.fa-brands.fa-figma {
   }
 
   aside .aside_container {
-    padding: 32px 48px;
+    padding: 32px 32px;
     gap: 32px;
   }
 
@@ -1028,7 +1028,7 @@ i.fa-brands.fa-figma {
 }
 
 /* Mobile: 3 cards per row, all cards in a single grid */
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .tools_section .tool_content {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
